@@ -131,6 +131,10 @@ it.support
 it+support
 job@
 jobs
+johndoe
+john.doe
+john_doe
+john-doe
 lab@
 learn
 legal
@@ -197,6 +201,7 @@ seo@
 service
 share
 shop
+singapore
 social
 solution
 sponsor
