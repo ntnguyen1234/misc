@@ -135,6 +135,7 @@ johndoe
 john.doe
 john_doe
 john-doe
+john+doe
 lab@
 learn
 legal
