@@ -2,6 +2,8 @@ about.me
 bit.ly
 blogspot.
 facebook.com
+gitlab.
+github.
 linkedin.com
 instagram.com
 twitter.com
