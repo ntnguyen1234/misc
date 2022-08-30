@@ -1,5 +1,6 @@
 about.me
 bit.ly
+blogspot.com
 facebook.com
 linkedin.com
 instagram.com
