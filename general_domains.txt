@@ -1,11 +1,9 @@
 about.me
-bit.ly
 blogspot.
 crunchbase.
 facebook.
 gitlab.
 github.
-linkedin.
 instagram.
 twitter.
 wordpress.
