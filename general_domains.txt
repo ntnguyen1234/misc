@@ -4,6 +4,7 @@ crunchbase.
 facebook.
 gitlab.
 github.
+google.
 instagram.
 twitter.
 wordpress.
