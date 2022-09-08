@@ -28,6 +28,7 @@ award
 awesome
 baomat
 beta@
+bigsale
 billing
 blog
 booking
@@ -61,6 +62,7 @@ contribut
 copyright
 corp
 course
+cskh
 custom
 data
 deactivat
