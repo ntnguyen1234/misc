@@ -6,6 +6,8 @@ gitlab.
 github.
 google.
 instagram.
+t.me
+telegram.
 twitter.
 wordpress.
 youtu.be
