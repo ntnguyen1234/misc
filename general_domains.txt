@@ -1,4 +1,5 @@
 about.me
+amazon.
 blogspot.
 crunchbase.
 facebook.
@@ -10,5 +11,6 @@ t.me
 telegram.
 twitter.
 wordpress.
+yahoo.
 youtu.be
 youtube.
