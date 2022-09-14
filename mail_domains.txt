@@ -1,6 +1,8 @@
 amazon
 gmail
+google
 hotmail
+microsoft
 proton
 outlook
 yahoo
