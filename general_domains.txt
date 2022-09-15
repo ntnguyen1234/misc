@@ -8,8 +8,10 @@ gitlab.
 github.
 google.
 instagram.
+medium.com
 t.me
 telegram.
+towardsdatascience.
 twitter.
 wixpress.
 wordpress.
