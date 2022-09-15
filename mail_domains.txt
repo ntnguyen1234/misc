@@ -1,10 +1,13 @@
 abc.xyz
 amazon
+example
 gmail
 google
 hotmail
 microsoft
 proton
 outlook
+w3c.org
+w3.org
 wixpress
 yahoo
