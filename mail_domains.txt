@@ -6,4 +6,5 @@ hotmail
 microsoft
 proton
 outlook
+wixpress
 yahoo
