@@ -11,6 +11,7 @@ instagram.
 t.me
 telegram.
 twitter.
+wixpress.
 wordpress.
 yahoo.
 youtu.be
