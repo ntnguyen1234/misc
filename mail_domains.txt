@@ -4,9 +4,11 @@ example
 gmail
 google
 hotmail
+medium
 microsoft
 proton
 outlook
+towardsdatascience
 w3c.org
 w3.org
 wixpress
