@@ -5,6 +5,9 @@ contact-3
 contact-us
 contact_us
 help
+help-1
+help-2
+help-3
 about
 about-1
 about-2
