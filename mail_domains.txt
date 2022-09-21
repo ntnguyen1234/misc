@@ -2,6 +2,7 @@ abc.xyz
 address.
 amazon.
 company.
+dream-theme.
 example.
 gaisangvn.
 gmail.
