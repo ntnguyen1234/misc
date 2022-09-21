@@ -5,6 +5,7 @@ amazon.
 blogspot.
 company.com
 crunchbase.
+dream-theme.
 example.
 facebook.
 gaisangvn.
