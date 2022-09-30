@@ -11,14 +11,17 @@ google.
 hotmail.
 mail.com
 medium.
+metro.com
 microsoft.
 onmicrosoft.
 outlook.
 proton.
 themenectar.
 tip-offs.
+trendmicro.
 w3c.org
 w3.org
+wix.com
 wixpress.
 wordpress.
 yahoo.
