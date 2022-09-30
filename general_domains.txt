@@ -15,11 +15,14 @@ github.
 google.
 instagram.
 medium.com
+metro.com
 t.me
 telegram.
 themenectar.
 towardsdatascience.
+trendmicro.
 twitter.
+wix.com
 wixpress.
 wordpress.
 yahoo.
