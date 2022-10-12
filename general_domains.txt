@@ -3,6 +3,7 @@ abc.xyz
 about.me
 address.
 amazon.
+apple.
 blogspot.
 company.com
 crunchbase.
