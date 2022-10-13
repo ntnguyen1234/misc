@@ -1,3 +1,5 @@
+.gov.
+.edu.
 000webhost
 abc.xyz
 about.me
