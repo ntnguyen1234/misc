@@ -19,6 +19,7 @@ gmail.
 google.
 hotmail.
 instagram.
+linkedin.
 mail.com
 medium.com
 metro.com
