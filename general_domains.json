@@ -47,5 +47,9 @@
         "w3c.org",
         "w3.org",
         "wix.com"
+    ],
+    "end": [
+        ".edu",
+        ".gov"
     ]
 }
