@@ -93,6 +93,7 @@ compliance
 congdan
 connect
 consult
+contact
 content
 contest
 contribut
@@ -190,6 +191,7 @@ greentech
 group
 guide
 guidance
+halo
 hanoi
 hcm@
 headquarter
@@ -208,6 +210,7 @@ hongkong
 host
 hotel
 hotro
+hq@
 hr@
 hrdept
 hubspot
@@ -215,6 +218,7 @@ ielts
 import
 inbound
 indonesia
+info
 innovat
 inquir
 instagram
@@ -390,8 +394,11 @@ subscription
 success
 sunrise
 suppl
+support
+student
 stylist
 sysadmin
+system
 tainang
 talent
 talk
@@ -418,7 +425,7 @@ towahawk
 track
 trade
 trading
-training
+train
 travel
 trial
 tuanthu
